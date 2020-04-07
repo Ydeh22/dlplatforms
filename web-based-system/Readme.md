@@ -6,3 +6,8 @@
   - /ais/clarifai_ai.php, line 6 , for ClarifAI platform.
   - /keys/google_vision_ai_key.json, Add all personal information, for Google Vision platform.
   - /ais/ibm_watson_ai.php, line 4, for IBM Watson platform.
+  
+
+
+### Guide
+[mobile.php ]mobile.php is the file that the android application uses to get the prediction from the platforms. Thos file returns JSON data.
