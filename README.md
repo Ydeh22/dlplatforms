@@ -10,7 +10,7 @@ Popular deep learning based platforms form image content prediction. The case st
 
 ### Deel Learning based platforms
 - PHP_Compat-1.6.0a3
-- PHP API libraries for each platform, which can be found owners repositories.
+- PHP API libraries for each platform, which can be found in owners repositories.
 - PHP version 7.3
 
 
