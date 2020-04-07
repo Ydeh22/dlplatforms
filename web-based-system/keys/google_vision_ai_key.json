@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "My ID",
+    "private_key_id": "My Key ID",
+    "private_key": "-----BEGIN PRIVATE KEY-----\n My Private Key\n-----END PRIVATE KEY-----\n",
+    "client_email": "MY client email",
+    "client_id": "My Client ID",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/umitphp%40local-cedar-237420.iam.gserviceaccount.com"
+  }
+  
