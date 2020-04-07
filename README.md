@@ -14,6 +14,8 @@ In this project it is developed a new system exploiting commercial deep learning
 - Composer (https://getcomposer.org)
 
 ### Android application
+The android application was developed with mit appinventor.
+[my directory](android)
 
 ##### Please cite this work as:
 ***
