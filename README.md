@@ -7,5 +7,6 @@ Popular deep learning based platforms form image content prediction. The case st
 - Amazon Rekognition (https://aws.amazon.com/rekognition/)
 - IBM Watson Visual Recognition (https://www.ibm.com/watson/services/visual-recognition/)
 
-
-This system is part of the 
+```
+Pleasw cite this work as: Chairi Kiourt, Umit Topouroglou, Tumay Chaita and Lefteris Moussiades, (2020), Deep Learning Platforms in Food Recognition, in......
+```
