@@ -19,5 +19,5 @@ You can find the apk as well as the project file in [android](android) folder
 
 ##### Please cite this work as:
 ***
-Chairi Kiourt, Umit Topouroglou, Tumay Chaita and Lefteris Moussiades, (2020), Deep Learning Platforms in Food Recognition, in......
+Chairi Kiourt, Umit Topouroglou, Tumay Chaita and Lefteris Moussiades, (2020), **Deep Learning Platforms in Food Recognition**, in *Submitted to SET 2020 Conference*, Athens, Greece. 2-4 September 2020.
 ***
