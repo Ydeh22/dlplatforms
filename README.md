@@ -7,10 +7,11 @@ This project is part of a research, where it is developed a new system exploitoi
 - Amazon Rekognition (https://aws.amazon.com/rekognition/)
 - IBM Watson Visual Recognition (https://www.ibm.com/watson/services/visual-recognition/)
 
-### Deel Learning based platforms
+### Requirements
 - PHP_Compat-1.6.0a3
 - PHP API libraries for each platform, which can be found in owners repositories.
 - PHP version 7.3
+- Composer (https://getcomposer.org)
 
 ##### Please cite this work as:
 ***
