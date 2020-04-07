@@ -14,7 +14,7 @@ Popular deep learning based platforms form image content prediction. The case st
 - PHP version 7.3
 
 
-Please cite this work as:
+##### Please cite this work as:
 ***
 Chairi Kiourt, Umit Topouroglou, Tumay Chaita and Lefteris Moussiades, (2020), Deep Learning Platforms in Food Recognition, in......
 ***
