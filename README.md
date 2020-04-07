@@ -9,6 +9,6 @@ Popular deep learning based platforms form image content prediction. The case st
 
 
 Please cite this work as:
-```
+***
 Chairi Kiourt, Umit Topouroglou, Tumay Chaita and Lefteris Moussiades, (2020), Deep Learning Platforms in Food Recognition, in......
-```
+***
