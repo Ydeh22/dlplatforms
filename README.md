@@ -1,5 +1,5 @@
 # Deep Learning Platforms in Food Recognition
-This project is part of a research, where it is developed a new system exploitoing commercial deep learning platform for image content predictions. Popular deep learning based platforms form image content prediction. The case study of food type and ingredients identification.
+In this project it is developed a new system exploiting commercial deep learning platforms, for image content predictions. A case study of food type and ingredients identification.
 
 ### Deep Learning based platforms
 - Vision AI (https://cloud.google.com/vision/)
@@ -12,6 +12,8 @@ This project is part of a research, where it is developed a new system exploitoi
 - PHP API libraries for each platform, which can be found in owners repositories.
 - PHP version 7.3
 - Composer (https://getcomposer.org)
+
+### Android application
 
 ##### Please cite this work as:
 ***
