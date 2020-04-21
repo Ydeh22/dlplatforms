@@ -18,7 +18,7 @@ The android application was developed with mit appinventor (https://appinventor.
 You can find the apk as well as the project file in [android](android) folder
 
 ### Short evaluation dataset
-The [Food120](Food120) folder contains the shor dataset for the evaluation of the platforms. For further details read  [Food120/Readme.md][this].
+The [Food120](Food120) folder contains the shor dataset for the evaluation of the platforms. For further details read [this][Food120/Readme.md].
 
 ##### Please cite this work as:
 ***
