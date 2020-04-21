@@ -17,6 +17,9 @@ In this project it is developed a new system exploiting commercial deep learning
 The android application was developed with mit appinventor (https://appinventor.mit.edu).
 You can find the apk as well as the project file in [android](android) folder
 
+### Short evaluation dataset
+The [Food120](Food120) folder contains the shor dataset for the evaluation of the platforms. For further details read  [Food120/Readme.md][this].
+
 ##### Please cite this work as:
 ***
 Chairi Kiourt, Umit Topouroglou, Tumay Chaita and Lefteris Moussiades, (2020), **Deep Learning Platforms in Food Recognition**, in *Submitted to SETN2020 Conference*, Athens, Greece. 2-4 September 2020.
