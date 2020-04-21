@@ -22,5 +22,5 @@ The [Food120](Food120) folder contains the shor dataset for the evaluation of th
 
 ##### Please cite this work as:
 ***
-Chairi Kiourt, Umit Topouroglou, Tumay Chaita and Lefteris Moussiades, (2020), **Deep Learning Platforms in Food Recognition**, in *Submitted to SETN2020 Conference*, Athens, Greece. 2-4 September 2020.
+Umit Topouroglou, Tumay Chaita, Chairi Kiourt and Lefteris Moussiades, (2020), **Deep Learning Platforms in Food Recognition**, in *Submitted to SETN2020 Conference*, Athens, Greece. 2-4 September 2020.
 ***
