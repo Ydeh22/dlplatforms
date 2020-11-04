@@ -14,4 +14,4 @@ Important keys elements:
 ### Guide
 - [mobile.php] mobile.php is the file that the android application uses to get the prediction from the platforms. Thos file returns JSON data.
 
-### SOS - Don not forget to include the necessary libraries
+### WARNING - Don not forget to include the necessary libraries
