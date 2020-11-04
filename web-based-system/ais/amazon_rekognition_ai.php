@@ -2,8 +2,8 @@
  use Aws\Rekognition\RekognitionClient;
  
  //Amazon rekognition API keys
- // putenv('AWS_ACCESS_KEY_ID=AKIAJJSKVAOUJWCBKH5A');
- // putenv('AWS_SECRET_ACCESS_KEY=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');
+ // putenv('AWS_ACCESS_KEY_ID=my_access_key');
+ // putenv('AWS_SECRET_ACCESS_KEY=my_secret_access_key');
 
 
  $options = [
