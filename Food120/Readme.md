@@ -3,7 +3,7 @@
 The images of this dataset are collected with the Selenium image crawler.
 
 ### Prediction results from the deep learning platforms
-The [food_detection.xlsx ](food_detection.xlsx ) file contain the entire dataset and the output of the web-platform, which combines the capabilities of the four different deep learning platforms.
+The [food_detection.xlsx ](food_detectionV2.xlsx ) file contain the entire dataset and the output of the web-platform, which combines the capabilities of the four different deep learning platforms.
 
 - The **1st sheet of the excel file** contains the data of the first round of the experiment. 120 uniqe images.
 - The **2nd sheet of the excel file** contains the data of the Second round of the experiment. 120 uniqe images.
