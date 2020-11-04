@@ -2,16 +2,16 @@
 
 The images of this dataset are collected with the Selenium image crawler.
 
-- The first ([1st.zip](1st.zip)) folder contains the data of the first round of the experiment. 120 uniqe images.
-- The Second ([2nd.zip](2nd.zip)) folder contains the data of the Second round of the experiment. 120 uniqe images.
-
 
 ### Prediction results from the deep learning platforms
-The [food_detection.xlsx ](food_detection.xlsx ) file contain the output of the web-platform, which combines the capabilities of the four different deep learning platforms.
+The [food_detection.xlsx ](food_detection.xlsx ) file contain the entire dataset and the output of the web-platform, which combines the capabilities of the four different deep learning platforms.
+
+- The first **1st sheet of the excel file**t contains the data of the first round of the experiment. 120 uniqe images.
+- The Second **2nd sheet of the excel file** contains the data of the Second round of the experiment. 120 uniqe images.
 
 ![food_detection.xlsx analysis](desc.png)
 **File description:**
-- **Image:** image file name.
+- **Image URL:** image location in the web.
 - **Food Name (EN):** the food name (label) searched in the results of the engines.
 - **Deep learning Platform Name:** Google Vision, ClarifAI, Amazon Recoknition, IBM Watson. 5 sub items for each platform:
   - **Percentage:** The prediction of the platform based on the label (**Food Name (EN)**)
